@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Test-clothes-pod-v2-with-email_-_Sheet1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "The Rolling Donut", "Address": "34 Bachelors Walk", "City": "Dublin", "Postal code": "D01 YN15", "Country \/ Region": "Ireland", "Full Address": "34 Bachelors Walk Dublin D01 YN15 Ireland ", "Latitude": 53.3475568, "Longitude": -6.2598394, "Email": "test@test.com", "Phone number": "1867546739" }, "geometry": { "type": "Point", "coordinates": [ -6.2598394, 53.3475568 ] } },
+{ "type": "Feature", "properties": { "Name": "Offbeat Donut Co", "Address": "Pearse Station", "City": "Dublin", "Postal code": "", "Country \/ Region": "Ireland", "Full Address": "Pearse Station Dublin  Ireland ", "Latitude": 53.3433274, "Longitude": -6.2480209, "Email": "test@test.com", "Phone number": "1867546739" }, "geometry": { "type": "Point", "coordinates": [ -6.2480209, 53.3433274 ] } },
+{ "type": "Feature", "properties": { "Name": "Mr Donut", "Address": "58 Parnell St", "City": "Dublin", "Postal code": "", "Country \/ Region": "Ireland", "Full Address": "58 Parnell St Dublin  Ireland ", "Latitude": 53.3514814, "Longitude": -6.2633493, "Email": "test@test.com", "Phone number": "1867546739" }, "geometry": { "type": "Point", "coordinates": [ -6.2633493, 53.3514814 ] } },
+{ "type": "Feature", "properties": { "Name": "Boomerang Donuts At Londis", "Address": "Grafton Street", "City": "Dublin", "Postal code": "", "Country \/ Region": "Ireland", "Full Address": "Grafton Street Dublin  Ireland ", "Latitude": 53.3422917, "Longitude": -6.2597507, "Email": "test@test.com", "Phone number": "1867546739" }, "geometry": { "type": "Point", "coordinates": [ -6.2597507, 53.3422917 ] } },
+{ "type": "Feature", "properties": { "Name": "Krispy Kreme Doughnuts", "Address": " Unit 457 Blanchardstown Centre", "City": "Dublin", "Postal code": "D15 Y189", "Country \/ Region": "Ireland", "Full Address": " Unit 457 Blanchardstown Centre Dublin D15 Y189 Ireland ", "Latitude": 53.3926665, "Longitude": -6.3942358, "Email": "test@test.com", "Phone number": "1867546739" }, "geometry": { "type": "Point", "coordinates": [ -6.3942358, 53.3926665 ] } }
+]
+}
